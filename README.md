@@ -2,6 +2,7 @@
 
 _It's all about the words._
 
-* Technical writer
-* Docs like code practitioner
-* PowerShell enthusiast
+✒️ Technical writer 
+⌨️ Occasional coder
+📚 Working on my marketing skills
+🐱 Human to one loud cat
