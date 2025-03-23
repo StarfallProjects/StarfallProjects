@@ -1,6 +1,6 @@
 # Deborah Barnard
 
-[Your Product Needs Words - Deborah Writes ](https://deborahwrites.com)
+**[Your Product Needs Words - Deborah Writes ](https://deborahwrites.com)**
 
 ✒️ Technical writer  
 ⌨️ Occasional coder  
